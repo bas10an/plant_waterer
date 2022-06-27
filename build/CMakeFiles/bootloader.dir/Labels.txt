@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-S:/Espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/CMakeFiles/bootloader
-S:/Espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/CMakeFiles/bootloader.rule
-S:/Espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/CMakeFiles/bootloader-complete.rule
-S:/Espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-S:/Espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-S:/Espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-S:/Espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-S:/Espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-S:/Espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-S:/Espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Users/dryos/.espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/CMakeFiles/bootloader
+C:/Users/dryos/.espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/CMakeFiles/bootloader.rule
+C:/Users/dryos/.espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/CMakeFiles/bootloader-complete.rule
+C:/Users/dryos/.espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/dryos/.espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/dryos/.espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/dryos/.espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/dryos/.espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/dryos/.espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/dryos/.espressif/frameworks/esp-idf-v4.4/projects/plant_waterer/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

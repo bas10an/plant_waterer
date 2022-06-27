@@ -25,7 +25,13 @@ void start_optical_eye_communicaiton()
         return; // ERROR
     }
 
-
+    // Identification Service
+    uart_write_bytes(uart_num_, IDENTIFICATION_SERVICE, 9);
+    uart_read_bytes(uart_num_, read_buffer, 64, portMAX_DELAY);
+    if (read_buffer[0] ==  || read_buffer[0] == ISSS || read_buffer[0] == BSY || read_buffer[0] == ERR)
+    {
+        return; // ERROR
+    }
 }
 
 int read_optical_electricity_data(char *read_data)
